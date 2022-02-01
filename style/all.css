@@ -103,7 +103,7 @@ color: #616161;
 .col .all-products{
 	background: #FFF;
 }
-.container{
+.container-fluid{
 	background: #F5F5F5;
 }
 .col .all-products:hover{
